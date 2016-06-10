@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "version": "0.0.2",
+  "name": "tss-proxy",
+  "dependencies": {
+    "express": "^4.10.8",
+    "http-proxy-middleware": "^0.15.2"
+  }
+}
